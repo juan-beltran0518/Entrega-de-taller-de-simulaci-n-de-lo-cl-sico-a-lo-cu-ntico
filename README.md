@@ -1,2 +1,2 @@
-# Entrega-de-taller-de-simulaci-n-de-lo-cl-sico-a-lo-cu-ntico
+# Entrega De Taller de simulacion De Lo clasico A Lo Cuantico
 Complete los retos de programación de los ejercicios en Jupyter.
