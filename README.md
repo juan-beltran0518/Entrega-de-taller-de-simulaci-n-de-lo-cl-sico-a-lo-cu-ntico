@@ -14,7 +14,7 @@ Antes de proceder con la ejecución de este proyecto, es fundamental verificar q
 
 ## Instalacion 
 
-###Para instalar la librería correctamente, siga los siguientes pasos detallados:
+### Para instalar la librería correctamente, siga los siguientes pasos detallados:
 
 Acceda a la carpeta donde desea almacenar la librería en su sistema.
 1. Haga clic derecho dentro de la carpeta y seleccione la opción "Git Bash" para abrir el terminal de Git en esa ubicación.
